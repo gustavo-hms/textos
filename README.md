@@ -1,4 +1,4 @@
-Poemas
+Textos
 ======
 
 Pequenos textos que escrevo no meu tempo livre.
